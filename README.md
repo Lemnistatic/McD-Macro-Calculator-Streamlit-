@@ -31,8 +31,7 @@ Follow these steps to run the project on your local machine.
 
 Clone this project to your local machine.
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Lemnistatic/McD-Macro-Calculator-Streamlit-
 ```
 
 ### 3. Create a `requirements.txt` file
